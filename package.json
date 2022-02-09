@@ -1,0 +1,19 @@
+{
+  "name": "router-multer",
+  "version": "1.0.0",
+  "description": "Desafio de la clase 8",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Santiago Otero",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  }
+}
